@@ -11,6 +11,6 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "excel-export": "~0.3.11",
-    "excel-export-impr": "^0.4.1"
+    "excel-export-impr": "github:tpschen/Node-Excel-Export"
   }
 }
